@@ -1,1 +1,1 @@
-Createing a new branch is quick and simple & manager
+Createing a new branch is quick and simple & manager and dev.
